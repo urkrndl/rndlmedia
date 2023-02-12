@@ -1,2 +1,1 @@
-# rndlmedia
-A website for Rndl Media
+This is a website created for a side business ran by my brother and I. I am using all that I've learned from The Odin Project's HTML and CSS lessons. I may come back and add Java elements if I find anything useful to apply to the project. I'm choosing to do something that has practical use for me to keep myself even more interested and searching for more elements to add to my site over time. I'm hoping to apply what I've learned to create a professional looking website, through proper implimentation of CSS and graphic design done through the Procreate application on my iPad.
